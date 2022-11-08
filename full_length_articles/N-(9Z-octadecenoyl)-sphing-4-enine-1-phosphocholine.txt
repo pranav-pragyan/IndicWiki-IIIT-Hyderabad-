@@ -1,0 +1,136 @@
+  <page>
+
+    <title>N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine</title>
+
+    <ns>0</ns>
+
+    <id>6443882</id>
+
+
+    <revision>
+
+      <id>6443882</id>
+
+      <timestamp>2022-10-10T14-18-45Z</timestamp>
+
+      <contributor>
+
+        <username>Pranav Kumar</username>
+
+        <id>21</id>
+
+      </contributor>
+
+      <comment>xmlpage created</comment>
+
+      <model>wikitext</model>
+
+      <format>text/x-wiki</format>
+
+
+      <text bytes="10288" xml:space="preserve">
+
+=N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine=
+
+{{ज्ञानसन्दूक
+|name = Infobox/doc	
+|title        = N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine
+|titlestyle   =   
+|headerstyle  = background:#cdf;
+|labelstyle   = background:#ccc;
+|datastyle    =   
+| header1  = भौतिक और रासायनिक गुण
+|  label1  =  
+|   data1  =  
+
+| header2  =  
+|  label2  = आणविक भार सूत्र
+|   data2  = C41H81N2O6P
+
+
+| header3  =  
+|  label3  = आणविक भार
+|   data3  =  729.1
+
+
+| header4  =  
+|  label4  = जटिलता  
+|   data4  = 867
+
+
+
+
+
+
+
+
+
+
+}}
+
+
+N-oleoylsphingosine-1-phosphocholine एक N-octadecenolsphingosine-1-phosphocholine है जिसमें निर्दिष्ट acyl समूह 9Z-octadecenoyl है। माउस मेटाबोलाइट के रूप में इसकी भूमिका है। यह कार्यात्मक रूप से एक ओलिक एसिड से संबंधित है।
+
+N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine एक प्राकृतिक उत्पाद है जो उपलब्ध डेटा के साथ ट्रिपैनोसोमा ब्रूसी में पाया जाता है।
+
+N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine उम्र बढ़ने वाले माउस मस्तिष्क में पाया जाने वाला एक मेटाबोलाइट है।
+
+
+इस यौगिक का आणविक सूत्र '''C41H81N2O6P''' है और आणविक भार '''729.1''' है।
+
+इसका IUPAC (इंटरनेशनल यूनियन ऑफ प्योर एंड एप्लाइड केमिस्ट्री) नाम '''[(E,2S,3R)-3-hydroxy-2-[[(Z)-octadec-9-enoyl]amino]octadec-4-enyl] 2-(trimethylazaniumyl)ethyl phosphate''' है।
+
+N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine के समानार्थी शब्द हैं-
+108392-10-5 
+सी18:1 स्फिंगोमाइलिन 
+N-(9Z-octadecenoyl)-sphing-4-enine-1-phosphocholine 
+एसएम (d18:1/18:1(9Z)) 
+N-oleoylsphingosine-1-phosphocholine 
+
+
+
+==रासायनिक और भौतिक गुण==
+
+एसिटिक एसिड का सटीक द्रव्यमान (अणु के अलग-अलग समस्थानिकों के द्रव्यमान का योग) 728.58322531 और मोनोआइसोटोपिक द्रव्यमान 60.728.58322531 है। क्वथनांक, हिमांक और फ्लैश बिंदु क्रमशः ,,  हैं। हाइड्रोजन बॉन्ड डोनर और हाइड्रोजन बॉन्ड स्वीकर्ता की कुल संख्या क्रमशः 2 और 6 है। यौगिक में कुल 37 घूर्णन योग्य बंधन होता है और समस्थानिक परमाणु की कुल संख्या 0 है।
+यौगिक में परिभाषित परमाणु स्टिरियोसेंटर 2 और अपरिभाषित परमाणु स्टीरियोसेंटर 0 है, परिभाषित बंधन स्टीरियोसेंटर 2 और अपरिभाषित बंधन स्टीरियोसेंटर 0 है। यौगिक में कुल 50 भारी परमाणु (हाइड्रोजन को छोड़कर कोई भी परमाणु) हैं और सहसंयोजक बंधित इकाई 1 है। XLogP3_AA (एक यौगिक में ऑक्टेनॉल / जल विभाजन गुणांक की गणना) है  और यौगिक का टोपोलॉजिकल ध्रुवीय सतह क्षेत्र 108 है। यौगिक पर औपचारिक आवेश (प्रत्येक परमाणु के संयोजकता इलेक्ट्रॉनों की संख्या और परमाणु से जुड़े इलेक्ट्रॉनों की संख्या के बीच का अंतर) 0 है।
+
+यौगिक में जटिलता 867।
+
+
+
+
+
+
+
+
+
+
+
+
+===नियतांक===
+
+{| class="wikitable"
+|-
+!नियतांक!!मान
+|-
+|हेनरी का नियम स्थिरांक||
+|-
+|वायुमंडलीय OH दर स्थिरांक||
+|-
+|}
+
+
+
+
+==संदर्भ==
+https://pubchem.ncbi.nlm.nih.gov/compound/6443882
+
+
+
+      </text>
+
+      <sha1> 6b8d4defeb546cc933e88c0a4d3f38c52531aa62 </sha1>
+
+    </revision>
+
+  </page>

@@ -1,0 +1,136 @@
+  <page>
+
+    <title>मिथाइलाज़ोक्सिमेथेनॉल</title>
+
+    <ns>0</ns>
+
+    <id>6433205</id>
+
+
+    <revision>
+
+      <id>6433205</id>
+
+      <timestamp>2022-10-10T05-59-24Z</timestamp>
+
+      <contributor>
+
+        <username>Pranav Kumar</username>
+
+        <id>21</id>
+
+      </contributor>
+
+      <comment>xmlpage created</comment>
+
+      <model>wikitext</model>
+
+      <format>text/x-wiki</format>
+
+
+      <text bytes="10288" xml:space="preserve">
+
+=मिथाइलाज़ोक्सिमेथेनॉल=
+
+{{ज्ञानसन्दूक
+|name = Infobox/doc	
+|title        = मिथाइलाज़ोक्सिमेथेनॉल
+|titlestyle   =   
+|headerstyle  = background:#cdf;
+|labelstyle   = background:#ccc;
+|datastyle    =   
+| header1  = भौतिक और रासायनिक गुण
+|  label1  =  
+|   data1  =  
+
+| header2  =  
+|  label2  = आणविक भार सूत्र
+|   data2  = C2H6N2O2
+
+
+| header3  =  
+|  label3  = आणविक भार
+|   data3  =  90.08
+
+
+| header4  =  
+|  label4  = जटिलता  
+|   data4  = 60.6
+
+
+
+| header6  =  
+|  label6 = क्वथनांक
+|   data6  = Colorless liquid; boiling point 191 °C; Absorption max of 215 nm, E=643; easily hydrolysed, especially under alkaline conditions, to yield nitrogen, formaldehyde and methanol, among other products /Methylazoxymethanol acetate/
+
+
+
+
+
+
+
+
+}}
+
+
+मेथिलाज़ोक्सिमेथेनॉल एक एज़ोक्सी यौगिक है।
+
+
+इस यौगिक का आणविक सूत्र '''C2H6N2O2''' है और आणविक भार '''90.08''' है।
+
+इसका IUPAC (इंटरनेशनल यूनियन ऑफ प्योर एंड एप्लाइड केमिस्ट्री) नाम '''(Z)-hydroxymethylimino-methyl-oxidoazanium''' है।
+
+मिथाइलाज़ोक्सिमेथेनॉल के समानार्थी शब्द हैं-
+मिथाइलाजोक्सीमेथेनॉली 
+UNII-JGG19N3YDQ 
+मेथनॉल, (मिथाइल-ओएनएन-एजोक्सी)- 
+JGG19N3YDQ 
+(मिथाइल-ओएनएन-एज़ोक्सी)मेथनॉल 
+
+
+
+==रासायनिक और भौतिक गुण==
+
+एसिटिक एसिड का सटीक द्रव्यमान (अणु के अलग-अलग समस्थानिकों के द्रव्यमान का योग) 90.042927438 और मोनोआइसोटोपिक द्रव्यमान 60.90.042927438 है। क्वथनांक, हिमांक और फ्लैश बिंदु क्रमशः Colorless liquid; boiling point 191 °C; Absorption max of 215 nm, E=643; easily hydrolysed, especially under alkaline conditions, to yield nitrogen, formaldehyde and methanol, among other products /Methylazoxymethanol acetate/,,  हैं। हाइड्रोजन बॉन्ड डोनर और हाइड्रोजन बॉन्ड स्वीकर्ता की कुल संख्या क्रमशः 1 और 3 है। यौगिक में कुल 1 घूर्णन योग्य बंधन होता है और समस्थानिक परमाणु की कुल संख्या 0 है।
+यौगिक में परिभाषित परमाणु स्टिरियोसेंटर 0 और अपरिभाषित परमाणु स्टीरियोसेंटर 0 है, परिभाषित बंधन स्टीरियोसेंटर 1 और अपरिभाषित बंधन स्टीरियोसेंटर 0 है। यौगिक में कुल 6 भारी परमाणु (हाइड्रोजन को छोड़कर कोई भी परमाणु) हैं और सहसंयोजक बंधित इकाई 1 है। XLogP3_AA (एक यौगिक में ऑक्टेनॉल / जल विभाजन गुणांक की गणना) है 0.6 और यौगिक का टोपोलॉजिकल ध्रुवीय सतह क्षेत्र 61.3 है। यौगिक पर औपचारिक आवेश (प्रत्येक परमाणु के संयोजकता इलेक्ट्रॉनों की संख्या और परमाणु से जुड़े इलेक्ट्रॉनों की संख्या के बीच का अंतर) 0 है।
+
+यौगिक में जटिलता 60.6।
+
+
+
+
+
+
+
+
+
+
+
+
+===नियतांक===
+
+{| class="wikitable"
+|-
+!नियतांक!!मान
+|-
+|हेनरी का नियम स्थिरांक||
+|-
+|वायुमंडलीय OH दर स्थिरांक||
+|-
+|}
+
+
+
+
+==संदर्भ==
+https://pubchem.ncbi.nlm.nih.gov/compound/6433205
+
+
+
+      </text>
+
+      <sha1> 9f0ccb29fd1b7ee41081fa754617431f33e59672 </sha1>
+
+    </revision>
+
+  </page>

@@ -1,0 +1,134 @@
+  <page>
+
+    <title>Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate</title>
+
+    <ns>0</ns>
+
+    <id>170472</id>
+
+
+    <revision>
+
+      <id>170472</id>
+
+      <timestamp>2022-10-07T22-20-29Z</timestamp>
+
+      <contributor>
+
+        <username>Pranav Kumar</username>
+
+        <id>21</id>
+
+      </contributor>
+
+      <comment>xmlpage created</comment>
+
+      <model>wikitext</model>
+
+      <format>text/x-wiki</format>
+
+
+      <text bytes="10288" xml:space="preserve">
+
+=Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate=
+
+{{ज्ञानसन्दूक
+|name = Infobox/doc	
+|title        = Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate
+|titlestyle   =   
+|headerstyle  = background:#cdf;
+|labelstyle   = background:#ccc;
+|datastyle    =   
+| header1  = भौतिक और रासायनिक गुण
+|  label1  =  
+|   data1  =  
+
+| header2  =  
+|  label2  = आणविक भार सूत्र
+|   data2  = C23H38N2O8
+
+
+| header3  =  
+|  label3  = आणविक भार
+|   data3  =  470.6
+
+
+| header4  =  
+|  label4  = जटिलता  
+|   data4  = 703
+
+
+
+
+
+
+
+
+
+
+}}
+
+
+2022-10-01
+
+2005-08-08
+
+
+इस यौगिक का आणविक सूत्र '''C23H38N2O8''' है और आणविक भार '''470.6''' है।
+
+इसका IUPAC (इंटरनेशनल यूनियन ऑफ प्योर एंड एप्लाइड केमिस्ट्री) नाम '''2-[[3,5,5-trimethyl-6-[2-(2-methylprop-2-enoyloxy)ethoxycarbonylamino]hexyl]carbamoyloxy]ethyl 2-methylprop-2-enoate''' है।
+
+Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate के समानार्थी शब्द हैं-
+72869-86-4 
+41137-60-4 
+यूडीएमए 
+Di-2-methacryloxyethyl 2,2,4-trimethylhexamethylenedicarbamate 
+2-[[3,5,5-ट्राइमेथाइल-6-[2-(2-मिथाइलप्रॉप-2-एनॉयलोक्सी)एथोक्सीकार्बोनीलिनो]हेक्सिल]कार्बामॉयलॉक्सी]एथिल 2-मिथाइलप्रॉप-2-एनोएट 
+
+
+
+==रासायनिक और भौतिक गुण==
+
+एसिटिक एसिड का सटीक द्रव्यमान (अणु के अलग-अलग समस्थानिकों के द्रव्यमान का योग) 470.26281617 और मोनोआइसोटोपिक द्रव्यमान 60.470.26281617 है। क्वथनांक, हिमांक और फ्लैश बिंदु क्रमशः ,,  हैं। हाइड्रोजन बॉन्ड डोनर और हाइड्रोजन बॉन्ड स्वीकर्ता की कुल संख्या क्रमशः 2 और 8 है। यौगिक में कुल 19 घूर्णन योग्य बंधन होता है और समस्थानिक परमाणु की कुल संख्या 0 है।
+यौगिक में परिभाषित परमाणु स्टिरियोसेंटर 0 और अपरिभाषित परमाणु स्टीरियोसेंटर 1 है, परिभाषित बंधन स्टीरियोसेंटर 0 और अपरिभाषित बंधन स्टीरियोसेंटर 0 है। यौगिक में कुल 33 भारी परमाणु (हाइड्रोजन को छोड़कर कोई भी परमाणु) हैं और सहसंयोजक बंधित इकाई 1 है। XLogP3_AA (एक यौगिक में ऑक्टेनॉल / जल विभाजन गुणांक की गणना) है 0.3 और यौगिक का टोपोलॉजिकल ध्रुवीय सतह क्षेत्र 129 है। यौगिक पर औपचारिक आवेश (प्रत्येक परमाणु के संयोजकता इलेक्ट्रॉनों की संख्या और परमाणु से जुड़े इलेक्ट्रॉनों की संख्या के बीच का अंतर) 0 है।
+
+यौगिक में जटिलता 703।
+
+
+
+
+
+
+
+
+
+
+
+
+===नियतांक===
+
+{| class="wikitable"
+|-
+!नियतांक!!मान
+|-
+|हेनरी का नियम स्थिरांक||
+|-
+|वायुमंडलीय OH दर स्थिरांक||
+|-
+|}
+
+
+
+
+==संदर्भ==
+https://pubchem.ncbi.nlm.nih.gov/compound/170472
+
+
+
+      </text>
+
+      <sha1> 57d5262d0318ab04c3fcf0a750f4e28324dd688d </sha1>
+
+    </revision>
+
+  </page>
