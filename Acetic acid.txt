@@ -1,0 +1,126 @@
+=Acetic acid=
+
+{{ज्ञानसन्दूक
+|name = Infobox/doc	
+|title        = Acetic acid
+|titlestyle   =   
+|headerstyle  = background:#cdf;
+|labelstyle   = background:#ccc;
+|datastyle    =   
+| header1  = भौतिक और रासायनिक गुण
+|  label1  =  
+|   data1  =  
+| header2  =  
+|  label2  = आणविक भार सूत्र
+|   data2  = C2H4O2
+| header3  =  
+|  label3  = आणविक भार
+|   data3  =  60.05
+| header4  =  
+|  label4  = जटिलता  
+|   data4  = 31
+| header5  =  
+|  label5 = घनत्व 
+|   data5  = 1.051 at 68 °F 
+| header6  =  
+|  label6 = क्वथनांक
+|   data6  = 244 °F at 760 mm Hg 
+| header7  =  
+|  label7  = हिमांक
+|   data7  = 61.9 °F 
+| header8  =  
+|  label8  = फ्लैश बिंदु
+|   data8  = 104 °F 
+| header9  =  
+|  label9  = logP 
+|   data9  =  
+| header10  =  
+|  label10  = logS 
+|   data10  = 
+| header11  =  
+|  label11 = LogKoa 
+|   data11  = 4.31 
+| header12  =  
+|  label12 = सतह तनाव 
+|   data12  = 
+| header13  =  
+|  label13 = आयनन विभव 
+|   data13  = 10.66 eV
+}}
+
+
+Acetic acid is a simple monocarboxylic acid containing two carbons. It has a role as a protic solvent, a food acidity regulator, an antimicrobial food preservative and a Daphnia magna metabolite. It is a conjugate acid of an acetate.
+
+Acetic acid, glacial appears as a clear colorless liquid with a strong odor of vinegar. Flash point 104°F. Density 8.8 lb / gal. Corrosive to metals and tissue. Used to make other chemicals, as a food additive, and in petroleum production.
+
+Acetic acid, solution, more than 10% but not more than 80% acid appears as a colorless aqueous solution. Smells like vinegar. Corrosive to metals and tissue.
+
+
+इस यौगिक का आणविक सूत्र '''C2H4O2''' है और आणविक भार '''60.05''' है।
+
+इसका IUPAC (इंटरनेशनल यूनियन ऑफ प्योर एंड एप्लाइड केमिस्ट्री) नाम '''acetic acid''' है।
+
+Acetic acid के समानार्थी शब्द हैं-
+acetic acid 
+ethanoic acid 
+64-19-7 
+Ethylic acid 
+Acetic acid, glacial 
+
+
+When heated to decomposition it emits irritating fumes.
+
+
+==रासायनिक और भौतिक गुण==
+
+एसिटिक एसिड का सटीक द्रव्यमान (अणु के अलग-अलग समस्थानिकों के द्रव्यमान का योग) 60.021129366 और मोनोआइसोटोपिक द्रव्यमान 60.60.021129366 है। क्वथनांक, हिमांक और फ्लैश बिंदु क्रमशः 244 °F at 760 mm Hg ,61.9 °F , 104 °F  हैं। हाइड्रोजन बॉन्ड डोनर और हाइड्रोजन बॉन्ड स्वीकर्ता की कुल संख्या क्रमशः 1 और 2 है। यौगिक में कुल 0 घूर्णन योग्य बंधन होता है और समस्थानिक परमाणु की कुल संख्या 0 है।
+यौगिक में परिभाषित परमाणु स्टिरियोसेंटर 0 और अपरिभाषित परमाणु स्टीरियोसेंटर 0 है, परिभाषित बंधन स्टीरियोसेंटर 0 और अपरिभाषित बंधन स्टीरियोसेंटर 0 है। यौगिक में कुल 4 भारी परमाणु (हाइड्रोजन को छोड़कर कोई भी परमाणु) हैं और सहसंयोजक बंधित इकाई 1 है। XLogP3_AA (एक यौगिक में ऑक्टेनॉल / जल विभाजन गुणांक की गणना) है -0.2 और यौगिक का टोपोलॉजिकल ध्रुवीय सतह क्षेत्र 37.3 Å² है। यौगिक पर औपचारिक आवेश (प्रत्येक परमाणु के संयोजकता इलेक्ट्रॉनों की संख्या और परमाणु से जुड़े इलेक्ट्रॉनों की संख्या के बीच का अंतर) 0 है।
+
+यौगिक में जटिलता 31, घुलनशीलता greater than or equal to 100 mg/mL at 73° F  है, घनत्व 1.051 at 68 °F  है, वाष्प घनत्व 2.07  है, श्यानता 1.056 mPa-s at 25 °C है और स्थिरता की स्थिति Stable under normal laboratory storage conditions. है।
+
+यौगिक में logP (विभाजन गुणांक का लघुगणकीय रूप)  है, logS (जलीय घुलनशीलता)  है और LogKoa 4.31  (ऑक्टेनॉल-वायु विभाजन गुणांक) है।
+
+ऑटोइग्निशन तापमान 961 °F  है, दहन की ऊष्मा 874.2 kJ/mol है और वाष्पीकरण की ऊष्मा 23.36 at 25 °C; 23.70 kJ/mol at 117.9 °C; और पृष्ठ तनाव  है। यौगिक का आयनन विभव 10.66 eV है।
+
+===रंग===
+
+यौगिक का रंग Clear, colorless liquid है।
+
+===गंध===
+
+यौगिक का रंग Pungent है।
+
+===गंध सीमा===
+
+न्युनतम गंध सीमा :  0.03 [mmHg]
+अधिकतम गंध सीमा :  0.15 [mmHg]
+
+===pH मान===
+
+विभिन्न दाढ़ (molar) स्तरों पर यौगिक का pH मान - 
+
+Aqueous solution 1.0 molar = 2.4; 0.1 molar = 2.9; 0.01 molar = 3.4
+
+===अपवर्तक सूचकांक===
+
+यौगिक का अपवर्तन का सूचकांक : 1.3720 @ °C/D है।
+
+===नियतांक===
+
+{| class="wikitable"
+|-
+!नियतांक!!मान
+|-
+|हेनरी का नियम स्थिरांक||1.00e-07 atm-m3/mole
+|-
+|वायुमंडलीय OH दर स्थिरांक||7.40e-13 cm3/molecule*sec
+|-
+|}
+
+===बहुलकीकरण===
+
+A drum contaminated with acetic acid was filled with acetaldehyde. The ensuing exothermic polymerization reaction caused a mild eruption lasting for several hours.
+
+
+==संदर्भ==
+https://pubchem.ncbi.nlm.nih.gov/compound/
